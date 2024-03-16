@@ -1,0 +1,9 @@
+{
+    "token": "MTExNDU2ODIwMzgzODk1MTQ4NQ.GxshKe.URJAYUNOnU1tVcuf4xec_3plL39v_VN4xW0xJo",
+    "clientID": "1114568203838951485",
+    "clientSecret": "RxxrhEUBXExo_YBv2lpJDiRgiJNmrG0Z",
+    "callbackUrl": "http://localhost:3000/callback",
+    "ownerRoleId": "1114056018188574770",
+    "guildId": "1110945343375425668",
+    "logChannelId": "1116383015766081626"
+}
